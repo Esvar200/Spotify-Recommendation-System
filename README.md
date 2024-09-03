@@ -19,7 +19,7 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/Spotify_Recommendation_System.git
+    git clone https://github.com/Esvar200/Spotify_Recommendation_System.git
     cd Spotify_Recommendation_System
     ```
 
